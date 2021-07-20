@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Group-2-project(Green_Bangladesh)", "Group-2-project(Green_Bangladesh)\Group-2-project(Green_Bangladesh).csproj", "{CC2DA2FE-525E-41F8-B0BA-7354DC5A4038}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "index(GB)", "index(GB)\index(GB).vdproj", "{D08A3E07-32A9-49B0-BBE1-72DA38381742}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC2DA2FE-525E-41F8-B0BA-7354DC5A4038}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC2DA2FE-525E-41F8-B0BA-7354DC5A4038}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC2DA2FE-525E-41F8-B0BA-7354DC5A4038}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC2DA2FE-525E-41F8-B0BA-7354DC5A4038}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D08A3E07-32A9-49B0-BBE1-72DA38381742}.Debug|Any CPU.ActiveCfg = Debug
+		{D08A3E07-32A9-49B0-BBE1-72DA38381742}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C58AC7D4-FF38-4620-A49D-014BA39F9C36}
+	EndGlobalSection
+EndGlobal

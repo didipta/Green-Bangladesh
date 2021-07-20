@@ -1,0 +1,56 @@
+
+//To run the project, you must have a "Mircosoft visual studio" on the PC and  "Microsoft sql server management studio" save the the SqL codes from the file named "sql code" and attach the databases to the code.///
+
+/////////// If you are a customer then,/////////////////////////////////////////////////////
+
+1) First of all you must create an account.(user id must be "111-xxxx" type).
+
+2) You have to sign in with "user id and password".
+
+3) If you want to buy products, then click the "product" option from the navigation bar. Then if you want to buy the product of your choice,double click on it.Then click the "buy now" option , choose the "payment method" and order the product.
+
+4) If you want to know about your order,then you have to click on the "order info" in the navigation bar.
+
+5) If you want to know about your profile,then you have to click on the "profile" in the navigation bar.
+
+6) If you want to write a blog, then click on the "blog writing" option.Then you have to write the blog of your choice and click the "post button" with the picture of your choice.
+
+7) If you want to find the product of your choice, then you have to search by entering the name of the product in the "search box".
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+/////////// If you are a Admin then,/////////////////////////////////////////////////////
+
+1) your Userid is "200-1234" and password is "12345".(always sign in through the information). 
+
+2) By click the "Add employee" option, you can create the id for the employees with the correct information.(staff userid must be "100-xxxx" and delivery boy userid must be "110-xxxxx" type)
+
+3) You will be able to know all the information with the help of "order list", "customer information", "product list", "delivery information", "received information" options in the navigation bar.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+/////////// If you are a staff then,/////////////////////////////////////////////////////
+
+1) You have to sign in with the "userid" and "password" obtained from the admin.
+
+2) Click on "Add product" option to insert the product with all the information of the product.If you need to update the product, you can update the product details by clicking the "update / deleted" button or "update product".
+
+3) Click "order info" option You will be able to reach the order information information delivery boy, with the help of which the delivery boy products can be delivered correctly.
+
+4) You will be able to know all the information with the help of "order list", "product list", "delivery information" options in the navigation bar.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+/////////// If you are a delivery boy then,/////////////////////////////////////////////////////
+
+1) You have to sign in with the "userid" and "password" obtained from the admin.
+
+2) You can change the delivery information by clicking the finish delivery option to update all the information about the delivery.
+
+3) You will be able to know all the information with the help of "order list", "product list",  "delivery information", "received information" options in the navigation bar.
+____________________________________________________________________________________________________________________________________________________________
+
+
+PLEASE READ ALL INFORMATION SO THAT IT WILL BE EASY FOR YOU TO USE THE WEB PAGE.////////////////////////////////////////////////////
+
+
+
+Drive link:https://drive.google.com/drive/folders/1knjp4C3-WorPN4Rw7IAzt4sYnqOyK95U?usp=sharing
